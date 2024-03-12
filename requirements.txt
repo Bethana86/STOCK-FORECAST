@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+yfinance
+requests
+requests_cache
+requests_ratelimiter
+pyrate_limiter
+plotly
+scikit-learn
+keras
+pmdarima
+selenium
+bs4
+tensorflow
