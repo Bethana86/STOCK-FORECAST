@@ -24,7 +24,6 @@ st.markdown(
 
 
     App created by :  
-    -> **Mr. Harshal Manoj Khilari**  
-    -> **Mr. Oliver Antony Priyan**   
+       -> **Mr. Bethanasamy Rajamani**   
 """
 )
